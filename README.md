@@ -24,9 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O shorts summary é um projeto que utiliza inteligência artificial para criar resumos de vídeos do YouTube Shorts.
-
-[Acesse o Link do projeto]()
+O shorts summary é um projeto que utiliza inteligência artificial para transcrever o conteúdo de um short do YouTube e realizar o resumo do conteúdo.
 
 ## 🔖 Layout
 
