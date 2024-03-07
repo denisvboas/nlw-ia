@@ -7,7 +7,7 @@ NLW IA é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino 
 <br>
 
 <p align="center">
-  <img alt="shorts summary" src=".github/preview.png" width="100%">
+  <img alt="shorts summary" src=".github/preview.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
