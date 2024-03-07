@@ -1,0 +1,2 @@
+export const transcriptionExample = `O java script e uma linguagem de programacao voltada para o desenvolvimento web, criada originalmente para funcionar do lado do usuario, ou seja, nos navehadores.
+Junto do HTML e do CSS, e uma das principais tecnologias da web permitindo a criacao de paginas interativas com elementos dinamicos.` 
